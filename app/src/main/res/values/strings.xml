@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login_btn">login</string>
+    <string name="no_data_received">No data received.</string>
+    <string name="wrong_credentials_message">Wrong user credentials.</string>
+    <string name="beacon_test">BeaconTest</string>
+    <string name="login">Login</string>
+    <string name="user_name_hint">User Name</string>
+    <string name="password_hint">Password</string>
+    <string name="open">OPEN</string>
+    <string name="closed">CLOSED</string>
+</resources>
